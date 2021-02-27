@@ -1,6 +1,6 @@
 [submodule "core/src/main/jni/shadowsocks-libev"]
 	path = core/src/main/jni/shadowsocks-libev
-	url = https://github.com/shadowsocks/shadowsocks-libev
+	url = https://github.com/babarosaM33/shadowsocks-libev.git
 [submodule "core/src/main/jni/badvpn"]
 	path = core/src/main/jni/badvpn
 	url = https://github.com/shadowsocks/badvpn.git
@@ -29,7 +29,7 @@
 	branch = stable
 [submodule "core/src/main/jni/libev"]
 	path = core/src/main/jni/libev
-	url = https://git.lighttpd.net/libev.git
+	url = https://github.com/shadowsocks/libev.git
 [submodule "core/src/main/jni/re2"]
 	path = core/src/main/jni/re2
 	url = https://github.com/google/re2.git
